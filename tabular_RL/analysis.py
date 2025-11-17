@@ -8,8 +8,8 @@ set_seed(30)
 
 
 # board size: [1, 3, 5, 7, 9]
-heaps = [0, 0, 0, 2, 0]
-num_simulation = 600
+heaps = [1, 3, 5, 7, 9]
+num_simulation = 65536
 
 def win_lose_position(position):
     xor = 0

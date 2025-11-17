@@ -127,6 +127,6 @@ def get_states_policies_values_masks(num_pile=6, num_samples=10000):
 if __name__ == '__main__':
    states, policies, values, masks = get_states_policies_values_masks(num_pile=4)
    state_space = get_state_space(num_pile=3)
-   print(states)
-   print(masks)
+   print(policies)
+#    print(policies)
 
