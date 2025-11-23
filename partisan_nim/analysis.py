@@ -85,3 +85,6 @@ print(f'root:{heaps} ', end='')
 print(f'V:{value:.2f}', end=" ")
 print(f'WL:{(0.5 + root.value()/2)*100:.2f}%')
 print(num_simulation)
+
+
+
