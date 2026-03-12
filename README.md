@@ -125,18 +125,6 @@ Your actual runtime will vary depending on available hardware. The paper's speci
 
 ---
 
-## Related Work
-
-This repository also contains code related to the follow-up theoretical work:
-
-> **Mastering NIM and Impartial Games with Weak Neural Networks: An AlphaZero-inspired Multi-Frame Approach**  
-> Søren Riis  
-> *arXiv preprint*, 2024 · [[arXiv]](https://arxiv.org/abs/2411.06403)
-
-The `multi_frame_nim/` folder contains experiments exploring multi-frame state representations, which provably overcome the parity barrier identified in the main paper.
-
----
-
 ## Citation
 
 If this code or paper contributes to your research, please cite:
